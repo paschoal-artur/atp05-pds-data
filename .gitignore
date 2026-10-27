@@ -1,0 +1,12 @@
+# Repositório clonado do pandas (usado durante a coleta de métricas)
+pds-data/pandas/
+pandas/
+
+# Artefatos locais e caches
+.DS_Store
+**/.DS_Store
+.dist/
+__pycache__/
+**/__pycache__/
+*.pyc
+pds-data/pipeline.log
